@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+    h1 {
+        font-size: 36px;
+        line-height: 42px;
+        font-weight: 600;
+    }
+    .article-block .col-9 {
+        width: 100%;
+    }
+    .article-block .col-3 {
+        width: 100%;
+    }
+    .article2 {
+        flex-direction: column-reverse;
+    }
+}
